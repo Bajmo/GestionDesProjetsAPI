@@ -1,6 +1,6 @@
-# GestionDesProjetsAPI
+# API de gestion de projets
 
-API simple pour la gestion des projets.
+API simple pour la gestion des projets réalisé dans le cadre du cours de J2EE.
 
 
 ProjetDev = Projet de developement
