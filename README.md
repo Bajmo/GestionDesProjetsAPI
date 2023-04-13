@@ -1,4 +1,4 @@
-# API de gestion de projets
+# API de gestion des projets
 
 API simple pour la gestion des projets réalisé dans le cadre du cours de J2EE.
 
